@@ -8,4 +8,5 @@
 ### 1.Hafta Çalışmaları
 -Git Kullanımı
 -Github Kullanımı
+-Visual Studio Code
 
